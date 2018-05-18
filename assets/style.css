@@ -1,0 +1,42 @@
+
+li {
+    display: inline;
+}   
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    overflow: hidden;
+    background-color:white;
+}
+
+li a {
+   background-color:white;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: lightseagreen;
+}
+#nav{
+    float : right;
+    width: 86.07%;
+    /* padding: 28px; */
+}
+
+#palak {
+    float: left;
+    background-color:blue;
+     width: 10%;
+    padding: 30px;
+    font-size: 20px;
+}
+
+button {
+    background-color: darkcyan;
+}
