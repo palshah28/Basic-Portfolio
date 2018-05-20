@@ -3,40 +3,66 @@ li {
     display: inline;
 }   
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 30px;
-    overflow: hidden;
-    background-color:white;
-}
-
-li a {
-   background-color:white;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration:none;
-}
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: lightseagreen;
 }
-#nav{
-    float : right;
-    width: 86.07%;
-    /* padding: 28px; */
+
+.color1 {
+    background-color: white;
+   padding : 1%;
 }
 
-#palak {
-    float: left;
-    background-color:blue;
-     width: 10%;
-    padding: 30px;
+.font1 {
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    /* background-color: cornflowerblue; */
 }
 
-button {
-    background-color: darkcyan;
+.card-height1{
+
+    padding: 10%;
+
 }
+
+.bgcolor1{
+
+    background-color:white;
+}
+
+#aboutmecolor {
+    color: lightseagreen;
+}
+
+
+#textfloat{
+float:left;
+position: relative;
+/* position: fixed; */
+
+}
+.imagefloat {
+    float: left;
+    position: relative;
+}
+
+.footercolor{
+    background-color:  lightseagreen;
+    padding: 5px;
+    width: 140%;
+    margin-top:px;
+
+}
+
+.imagemargin {
+    margin-right: 25px;
+}
+
+
+/* .header1 {
+    float:left;
+    background-color: blue;
+    width:15%;
+    padding:2%;
+} */
