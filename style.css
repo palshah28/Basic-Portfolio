@@ -16,8 +16,16 @@ li a:hover {
 
 .font1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    color: white;
     /* background-color: cornflowerblue; */
+}
+
+.block1{
+background: lightseagreen;
+display: inline;
+padding: 28px;
+
 }
 
 .card-height1{
@@ -34,7 +42,16 @@ li a:hover {
 #aboutmecolor {
     color: lightseagreen;
 }
-
+.footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    height: 1.5%;
+}
 
 #textfloat{
 float:left;
@@ -47,13 +64,6 @@ position: relative;
     position: relative;
 }
 
-.footercolor{
-    background-color:  lightseagreen;
-    padding: 5px;
-    width: 140%;
-    margin-top:px;
-
-}
 
 .imagemargin {
     margin-right: 25px;
@@ -66,3 +76,9 @@ position: relative;
     width:15%;
     padding:2%;
 } */
+
+.block_1   {
+   
+border-top: 2px solid #ccc;
+
+} 

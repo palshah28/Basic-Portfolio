@@ -1,68 +1,8 @@
 
-li {
-    display: inline;
-}   
 
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: lightseagreen;
-}
-
-.color1 {
-    background-color: white;
-   padding : 1%;
-}
-
-.font1 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    /* background-color: cornflowerblue; */
-}
-
-.card-height1{
-
-    padding: 10%;
-
-}
-
-.bgcolor1{
-
-    background-color:white;
-}
-
-#aboutmecolor {
-    color: lightseagreen;
-}
 
 
-#textfloat{
-float:left;
-position: relative;
-/* position: fixed; */
-
-}
-.imagefloat {
-    float: left;
-    position: relative;
-}
-
-.footercolor{
-    background-color:  lightseagreen;
-    padding: 5px;
-    width: 140%;
-    margin-top:px;
-
-}
-
-.imagemargin {
-    margin-right: 25px;
-}
 
 
-/* .header1 {
-    float:left;
-    background-color: blue;
-    width:15%;
-    padding:2%;
-} */
+
